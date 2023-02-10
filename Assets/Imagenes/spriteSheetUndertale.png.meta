@@ -1,0 +1,2523 @@
+fileFormatVersion: 2
+guid: caf0adb3039bf1c42a1699952b3d932c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spriteSheetUndertale_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 241
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e90d9becb16094ba7b9c11d4207d1b
+      internalID: -1585338682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 241
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e76775192f6ec448368205b53756c8
+      internalID: -791539595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 241
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bebaba350c9034692625bc97add84e
+      internalID: 687689778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68f88d035b8a4e4b982b4801867ffe1
+      internalID: 1422743668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 240
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40967314eb50fd54c9ed453d5aee06a6
+      internalID: 1150820771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 240
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8315d556cb3fcf3499cd1ae5a996e8fa
+      internalID: 1014733875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 217
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c6748796324ba4d99e4e99d1928b2b
+      internalID: -1428209521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 216
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b351b3c4560fc4b9b842286868e1ff
+      internalID: 2104637287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 217
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e973eb5bf9eb64386176721da5ccfb
+      internalID: -1043979359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 219
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55558e66dc6181944ac7d99d8063b610
+      internalID: 1940221216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 219
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b19626837cb67f4d8bba78617feb9e2
+      internalID: -2020159021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 219
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c9b4c48e37cbf4da449e79ef324626
+      internalID: 1705893939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 216
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f3a30b9ce54c54386e0a8e2d63e207
+      internalID: -836510630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 216
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd424ecd12c3e54d81609e485396374
+      internalID: -1655840733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 216
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6f4ac22a9c4f74797e7160aea30f51
+      internalID: 851030231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_15
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 213
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af0873cc47380e41a7b7aebdeb0e2fa
+      internalID: -1998536644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_16
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 214
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693b985beed35534ea76c20d033525f5
+      internalID: -487563850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_17
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 211
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb13d365b177654ca2bbef0a012c163
+      internalID: 1614747647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_18
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 215
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3820c2f109c8b4eafe9f40d944256d
+      internalID: -1655531650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_19
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 215
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef3cf9b9042d3f4294ec0d9f6b19ac1
+      internalID: 752162798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_20
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 214
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e6d9f0495e0bb4ba106df041843660
+      internalID: -697241421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 209
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d785d447fba227e4283595335412bf89
+      internalID: -772556295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 209
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1644318fa4562441996dcd351f7ed9f
+      internalID: -1052977172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 209
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a827a1e6aadc11343bc07a3dae7fd7bb
+      internalID: 1969561493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 208
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e725b589f7f10d44e9bcac34d068ebb2
+      internalID: 1403193874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 208
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf0708bc8aef404abb64f0e75f0f74d
+      internalID: -197094110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 208
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634f6676fda751b448b603a175fb3cfe
+      internalID: 186176002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 177
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f840c5373b025840b3f2d63c4f9f59a
+      internalID: 959780318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 177
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786c98f690ce46043b326fc4defa5ea1
+      internalID: -1816710744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 177
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eb6c5e1cfe53740983b957f0193016
+      internalID: 1365659533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 177
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381f8e3105003c048a15a45e7c200d0f
+      internalID: -1955335808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 177
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a5e4d67ded39e448d8bb04b6f1e651
+      internalID: 822442977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 177
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a029a4227a550ec4b805f4956f652101
+      internalID: 1381473556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 152
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f94c78dbbc3dd41b837c3a4f0fe3b7
+      internalID: 1639312661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_34
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 151
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3c966b102592d4f81f68e784a6bab4
+      internalID: -1830423991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_35
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 152
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a5e2f1fadf99e4c98988b54d157113
+      internalID: 97915263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_36
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 155
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a6f46ea36625f4286e4d1374930b53
+      internalID: 1970592724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_37
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 155
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca64781473abb741b107d5c42499be6
+      internalID: -1837531943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 155
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db56fd14b6b200b43beeb1fdcac59d25
+      internalID: -1844151799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_39
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 152
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e76262764b01e64a8405327efd78b64
+      internalID: -457578402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_40
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 152
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dea8c58c2e587647bacaf7140b7bfeb
+      internalID: 1481951308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_41
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 152
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b138f55e0f79a2429e6da66ecfea281
+      internalID: -875800391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_42
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 147
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c184341265aabe47b5c2d6042e53d07
+      internalID: -1419294898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_43
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 147
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e05234be7f01ef4894b55d48f7c8ff6
+      internalID: -1773500739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_44
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 145
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb66363d47ca95649a2a185fdd69c6bd
+      internalID: 1809408378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_45
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 147
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093eb1f14d7d12b49b463c6847013cc6
+      internalID: -1934996131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_46
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 149
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954d3bd6142608f4ca26a768d5760deb
+      internalID: 1730907813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_47
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 146
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e522f690a68ba644ad6e9fd2ff2cf8b
+      internalID: 2003895244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 145
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874292ac4aad5fe42a63aacf2005c211
+      internalID: -183061420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_49
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 145
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffed89fe4eca32a4381a1301e112aea2
+      internalID: 1486610326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 145
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8462420dfc0664985a2e174735f0d3
+      internalID: -1592977808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 145
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e635299ebb51c479cedffd326bf776
+      internalID: -1342989884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 145
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52c97e98566f9144ba24f3881095fa1
+      internalID: -688187235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_53
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 145
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a326e0331305434694d4691e34db0c7
+      internalID: 741353625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 113
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8affb6d6ad31434493939807e54fb90
+      internalID: -880932791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_55
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 113
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677d22a7b189b9740bd7c9ddbe3bc87c
+      internalID: -1351704010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_56
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 113
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02df36401ebb05b4db4329273ce25465
+      internalID: 333992051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_57
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 108
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85111e9da186ebb40bc6480ad37832a8
+      internalID: 1738222079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_58
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 108
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee011ba2a7dc1747897e5b7b00ac882
+      internalID: 290005190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_59
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 108
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f1f77512268174a8b5d8dcbdd6e449
+      internalID: 1234909518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_60
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 88
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcbf8713cb56df4a8f43936d6c12852
+      internalID: 180077272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_61
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 87
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63fa9362962e024696ae204d4228266
+      internalID: 1681923874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_62
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 88
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5e92ff405d31341961f8bfee5ba449
+      internalID: -1182996423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_63
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 92
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e33a98dd209cb478b8c453de51ee2d
+      internalID: 1368174845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_64
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 92
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2f55dad9884034e90771580f4ed9f6
+      internalID: 1565470917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 92
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832d87522208b274197d083af2289849
+      internalID: -1968932760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_66
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 88
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c997fd19d1f9f4289aba57b563fd43
+      internalID: -1700189304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_67
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 88
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270e864616e7d1e4d9f27c5547fe60cd
+      internalID: -570692738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_68
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 88
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d926577e23886d45a59131eb0100d62
+      internalID: -1698715819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_69
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 76
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf577b9f679b2148b36fb30fab0ca37
+      internalID: 331452926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_70
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 78
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be334252bb79d74e88cd25c9f62324d
+      internalID: -449998971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_71
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 78
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4f61e94c9ba6f4cb36bef612607408
+      internalID: -1781713012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_72
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 77
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c933cf3fd4904174782adf38ff08ce76
+      internalID: 1938789853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_73
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 78
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c8b26c0027ff147b05b7aa66277f44
+      internalID: -2140564034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_74
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 76
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2dcf96faa242a468ce1e1a7c76def1
+      internalID: 1999409698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_75
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 81
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd52a5934205cd43b406fe8a02c7de0
+      internalID: 1181705775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_76
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 81
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ea1be4aacdf104a822719112e1571d
+      internalID: 1323776600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_77
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 81
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1c530866dcbc9418f3e1877dfcb496
+      internalID: -2040151811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_78
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 76
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0a033527fde334da27882b3fbac397
+      internalID: 1684114966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_79
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 76
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00ae5e18ea73014393c9f46ca6e15dc
+      internalID: 1602114833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_80
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 76
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b275052c42eacd4b809cb94a21cc191
+      internalID: 1183670996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 49
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e21b51a43ed034693d933e0014f725
+      internalID: 1432620927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_82
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 49
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c0f80f87f92e9479169b8b8d8af658
+      internalID: -225321072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 49
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217c09bd3a117a745b03c2b11fcc5158
+      internalID: 665370225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_84
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 44
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765dbea83fe3a4c499122d89cbabca59
+      internalID: -1551334079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_85
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 44
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde6aa2b9a2ca28439e6a5d81e39605c
+      internalID: 75584076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_86
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 44
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca3b0d23e19a864e9182380d4746633
+      internalID: 1850171511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_87
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 23
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dae5cf63dc55d34c94bcc3c018f2e98
+      internalID: 978436513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_88
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 23
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8736bbdc2af4f004f9bb74a3422d1b67
+      internalID: -735008083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_89
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 23
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad5e86aefdb59d40990dc9b0961ac7b
+      internalID: -460892592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_90
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 27
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169a23b95006b2247959c19dd1238020
+      internalID: 1297762510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_91
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 27
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba487fa433df834e85d141bf829dbfb
+      internalID: -1584916709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_92
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 27
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c625490f15dd646aaaba3303aba6db
+      internalID: 902954814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_93
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 24
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b7ae690c946dd4aba69a090a98642e
+      internalID: 986206742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_94
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 24
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24c83f6f7d6fc2489b83c0e5ef780e4
+      internalID: -1005834869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_95
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 24
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b31f1e6c0e3f8144b60ca8d951632c9
+      internalID: -1423400383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_96
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 3
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f0cab25e8add143a83a25662750508
+      internalID: 2129267448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_97
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45ac4f6c78fc454d8890cc47db89cbd
+      internalID: -366648059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_98
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 3
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720d47502df9dd6498a80fcdd447254c
+      internalID: 462702753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_99
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 8
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ca88e45e77d724c8f7a4ef6c135c68
+      internalID: -1701895233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_100
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 10
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a71c59ce91845144a6a0f9693cddba9
+      internalID: 1251389944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_101
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 7
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4c5b201a2ec1c458ca9e7f2c70dc39
+      internalID: -1115590300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_102
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 17
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4358126458aee3c4c949d9bfef7c208f
+      internalID: 1675331459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_103
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 17
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7241f54d2f7cff24fa7c7ac6499b2380
+      internalID: 1588044678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_104
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 17
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70a8e890ad95a24bae488c2f231e1f2
+      internalID: 1162697113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_105
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 12
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8922758e9589113458eae2c286271a6e
+      internalID: 1140240928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_106
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 11
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f2cde5d83dd724e97015dc2a35aded
+      internalID: -1195782610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheetUndertale_107
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 12
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaeadc3fb3335e04fac26bc37ea1ade3
+      internalID: 737564421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spriteSheetUndertale_37: -1837531943
+      spriteSheetUndertale_69: 331452926
+      spriteSheetUndertale_27: 959780318
+      spriteSheetUndertale_86: 1850171511
+      spriteSheetUndertale_64: 1565470917
+      spriteSheetUndertale_106: -1195782610
+      spriteSheetUndertale_1: -791539595
+      spriteSheetUndertale_10: -2020159021
+      spriteSheetUndertale_18: -1655531650
+      spriteSheetUndertale_60: 180077272
+      spriteSheetUndertale_26: 186176002
+      spriteSheetUndertale_11: 1705893939
+      spriteSheetUndertale_83: 665370225
+      spriteSheetUndertale_34: -1830423991
+      spriteSheetUndertale_29: 1365659533
+      spriteSheetUndertale_80: 1183670996
+      spriteSheetUndertale_3: 1422743668
+      spriteSheetUndertale_21: -772556295
+      spriteSheetUndertale_49: 1486610326
+      spriteSheetUndertale_17: 1614747647
+      spriteSheetUndertale_103: 1588044678
+      spriteSheetUndertale_54: -880932791
+      spriteSheetUndertale_105: 1140240928
+      spriteSheetUndertale_92: 902954814
+      spriteSheetUndertale_46: 1730907813
+      spriteSheetUndertale_32: 1381473556
+      spriteSheetUndertale_102: 1675331459
+      spriteSheetUndertale_47: 2003895244
+      spriteSheetUndertale_58: 290005190
+      spriteSheetUndertale_67: -570692738
+      spriteSheetUndertale_24: 1403193874
+      spriteSheetUndertale_42: -1419294898
+      spriteSheetUndertale_57: 1738222079
+      spriteSheetUndertale_41: -875800391
+      spriteSheetUndertale_73: -2140564034
+      spriteSheetUndertale_43: -1773500739
+      spriteSheetUndertale_2: 687689778
+      spriteSheetUndertale_20: -697241421
+      spriteSheetUndertale_63: 1368174845
+      spriteSheetUndertale_8: -1043979359
+      spriteSheetUndertale_68: -1698715819
+      spriteSheetUndertale_16: -487563850
+      spriteSheetUndertale_30: -1955335808
+      spriteSheetUndertale_93: 986206742
+      spriteSheetUndertale_22: -1052977172
+      spriteSheetUndertale_35: 97915263
+      spriteSheetUndertale_28: -1816710744
+      spriteSheetUndertale_97: -366648059
+      spriteSheetUndertale_0: -1585338682
+      spriteSheetUndertale_100: 1251389944
+      spriteSheetUndertale_104: 1162697113
+      spriteSheetUndertale_44: 1809408378
+      spriteSheetUndertale_95: -1423400383
+      spriteSheetUndertale_4: 1150820771
+      spriteSheetUndertale_14: 851030231
+      spriteSheetUndertale_59: 1234909518
+      spriteSheetUndertale_66: -1700189304
+      spriteSheetUndertale_48: -183061420
+      spriteSheetUndertale_90: 1297762510
+      spriteSheetUndertale_13: -1655840733
+      spriteSheetUndertale_84: -1551334079
+      spriteSheetUndertale_91: -1584916709
+      spriteSheetUndertale_15: -1998536644
+      spriteSheetUndertale_107: 737564421
+      spriteSheetUndertale_40: 1481951308
+      spriteSheetUndertale_56: 333992051
+      spriteSheetUndertale_33: 1639312661
+      spriteSheetUndertale_78: 1684114966
+      spriteSheetUndertale_19: 752162798
+      spriteSheetUndertale_70: -449998971
+      spriteSheetUndertale_38: -1844151799
+      spriteSheetUndertale_7: 2104637287
+      spriteSheetUndertale_81: 1432620927
+      spriteSheetUndertale_99: -1701895233
+      spriteSheetUndertale_76: 1323776600
+      spriteSheetUndertale_94: -1005834869
+      spriteSheetUndertale_96: 2129267448
+      spriteSheetUndertale_98: 462702753
+      spriteSheetUndertale_87: 978436513
+      spriteSheetUndertale_74: 1999409698
+      spriteSheetUndertale_23: 1969561493
+      spriteSheetUndertale_75: 1181705775
+      spriteSheetUndertale_45: -1934996131
+      spriteSheetUndertale_65: -1968932760
+      spriteSheetUndertale_6: -1428209521
+      spriteSheetUndertale_52: -688187235
+      spriteSheetUndertale_88: -735008083
+      spriteSheetUndertale_79: 1602114833
+      spriteSheetUndertale_50: -1592977808
+      spriteSheetUndertale_51: -1342989884
+      spriteSheetUndertale_5: 1014733875
+      spriteSheetUndertale_31: 822442977
+      spriteSheetUndertale_53: 741353625
+      spriteSheetUndertale_61: 1681923874
+      spriteSheetUndertale_85: 75584076
+      spriteSheetUndertale_36: 1970592724
+      spriteSheetUndertale_101: -1115590300
+      spriteSheetUndertale_55: -1351704010
+      spriteSheetUndertale_39: -457578402
+      spriteSheetUndertale_89: -460892592
+      spriteSheetUndertale_82: -225321072
+      spriteSheetUndertale_77: -2040151811
+      spriteSheetUndertale_9: 1940221216
+      spriteSheetUndertale_71: -1781713012
+      spriteSheetUndertale_25: -197094110
+      spriteSheetUndertale_72: 1938789853
+      spriteSheetUndertale_62: -1182996423
+      spriteSheetUndertale_12: -836510630
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
