@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MiLoginSemana2.unity
+    path: Assets/Scenes/Miapp.unity
     guid: 2acb42f96a0279943b8336a255f5d362
   m_configObjects: {}
