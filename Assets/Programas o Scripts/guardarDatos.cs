@@ -9,7 +9,7 @@ public class guardarDatos : MonoBehaviour
     public string textoDocumento;//Este es solamente mi texto
     void Start()
     {
-        
+        //
     }
 
     public void saveDatos()
