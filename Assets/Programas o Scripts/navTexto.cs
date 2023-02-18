@@ -5,15 +5,15 @@ using Unity.VisualScripting;
 using UnityEngine;
 
 public class navTexto : MonoBehaviour
-{
-    //Estas 2 variables nos serviran para navegar entre todas las pantallas
+{//Es muy parecido al navegador de pantallas pero exclusivo para la pantalla
+    // de textos y la de documentos. Ya que lo usamos para cargar datos también.
     public GameObject miCanvas;
     public RectTransform posPantallaTexto;
     public RectTransform posPantallaDocumentos;
     public guardarDatos codigoDatos;
     public TextMeshProUGUI docAbierto;
     Vector2 posInicial;
-    //Al inicio guardamos la posición de nuestra pantalla
+    
     void Start()
     {
         codigoDatos = GameObject.Find("CodigoDatos").GetComponent<guardarDatos>();
@@ -28,6 +28,7 @@ public class navTexto : MonoBehaviour
     {
         posPantallaTexto.gameObject.SetActive(true);//Enciendo la pantalla
         posPantallaTexto.anchoredPosition = Vector2.zero;//La colocamos en posición
+        //Aqui leemos el nombre del documento para cargar la información correcta
         codigoDatos.nombreDocumento = docAbierto;
         codigoDatos.loadDatos();
     }

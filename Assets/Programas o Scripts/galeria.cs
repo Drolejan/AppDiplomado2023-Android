@@ -5,11 +5,11 @@ using UnityEngine;
 public class galeria : MonoBehaviour
 {
     public GameObject contenedorGaleria;//Aqui se guardan nuestros elementos
-    public RectTransform[] elementosGaleria;//Esto es una arreglo(lista) de los elementos
+    public etiquetaGaleria[] elementosGaleria;//Esto es una arreglo(lista) de los elementos
     public int indice;//Este es el numero del elemento activo en pantalla
     void Start()
-    {//Metodo 1: Buscando los elementos del contenedor
-        elementosGaleria = contenedorGaleria.GetComponentsInChildren<RectTransform>();
+    {//Metodo Ideal: Buscando los elementos con la etiqueta indicada
+        elementosGaleria = contenedorGaleria.GetComponentsInChildren<etiquetaGaleria>();
         indice = 1;
         actualizarGaleria();
     }
