@@ -83,7 +83,7 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1198850956108242}
-  m_Text: Tienda
+  m_Text: Taller
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -206,7 +206,7 @@ GameObject:
   - component: {fileID: 114657051886494624}
   - component: {fileID: 114584515627220354}
   m_Layer: 10
-  m_Name: CustomMarkerPrefab
+  m_Name: Taller
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
