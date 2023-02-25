@@ -206,7 +206,7 @@ GameObject:
   - component: {fileID: 114657051886494624}
   - component: {fileID: 114584515627220354}
   m_Layer: 10
-  m_Name: Taller
+  m_Name: MarcadorTaller
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
