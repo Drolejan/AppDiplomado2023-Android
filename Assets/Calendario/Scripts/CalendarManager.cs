@@ -136,7 +136,7 @@ public class CalendarManager : MonoBehaviour
             default:
 				break;
 		}
-		tailManager.SetLegend($"Eventos del {param.day} de {miMes}:");
+		tailManager.SetLegend($"{param.day} de {miMes}:");
 	}
 
 	#endregion
