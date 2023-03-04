@@ -20,6 +20,8 @@ public class CalendarManager : MonoBehaviour
 	private CultureInfo cultureInfo;
 	string miMes;
 
+    public string fecha;
+
 	#endregion
 
 	#region Public Methods
@@ -136,7 +138,11 @@ public class CalendarManager : MonoBehaviour
             default:
 				break;
 		}
-		tailManager.SetLegend($"{param.day} de {miMes}:");
+
+        fecha = $"{param.day} de {miMes} del {targetDateTime.Year}:";
+
+        tailManager.SetLegend(fecha);
+
 	}
 
 	#endregion

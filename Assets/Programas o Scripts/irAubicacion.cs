@@ -12,5 +12,6 @@ public class irAubicacion : MonoBehaviour
     public void ir()
     {
         miMapa.SetCenterLatitudeLongitude(Conversions.StringToLatLon(ubicacion));
+        miMapa.UpdateMap();
     }
 }

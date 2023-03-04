@@ -25,7 +25,7 @@ public class ButtonManager : MonoBehaviour
 
 		buttonAction += () => clickEventHandler((label, label));
 		button.onClick.AddListener(buttonAction);
-	}
+    }
 
 	#endregion
 

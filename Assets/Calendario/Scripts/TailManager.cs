@@ -1,4 +1,5 @@
 ﻿using TMPro;
+using UnityEditor.EditorTools;
 using UnityEngine;
 
 public class TailManager : MonoBehaviour
@@ -14,7 +15,15 @@ public class TailManager : MonoBehaviour
 
 	public void SetLegend(string text)
 	{
-		legend.text = text;
+        string loadedString = PlayerPrefs.GetString(text);
+        if (loadedString.Length > 1)
+        {
+            legend.text = loadedString;
+        }
+		else
+		{
+			legend.text = text;
+		}
 	}
 
 	#endregion
